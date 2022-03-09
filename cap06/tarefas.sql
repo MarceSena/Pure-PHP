@@ -7,6 +7,7 @@ prioridade INTEGER(1),
 concluida BOOLEAN
 );
 
+
 INSERT INTO tarefas
 (nome, descricao, prioridade)
 VALUES
