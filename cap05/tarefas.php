@@ -39,5 +39,4 @@ if (isset($_SESSION['lista_tarefas'])) {
   $lista_tarefas = array();
 }
 
-
 include "template.php";
