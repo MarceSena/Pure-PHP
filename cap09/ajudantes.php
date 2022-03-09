@@ -32,8 +32,7 @@ function traduz_data_para_banco($data)
 
   $dada_mysql = "{$dados[2]}-{$dados[1]}-{$dados[0]}";
 
-  return $dada_mysql;
-  
+  return $dada_mysql;  
 }
 
 function traduz_data_para_exibir($data)
